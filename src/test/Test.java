@@ -15,10 +15,11 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Kap that is fist time when are you work with github");
-        System.out.println("Hello Kap that is fist time when are you work with github");
-        System.out.println("Hello Kap that is fist time when are you work with github");
-        System.out.println("Hello Kap that is fist time when are you work with github");
+//        System.out.println("Hello Kap that is fist time when are you work with github");
+//        System.out.println("Hello Kap that is fist time when are you work with github");
+//        System.out.println("Hello Kap that is fist time when are you work with github");
+//        System.out.println("Hello Kap that is fist time when are you work with github");
+        System.out.println("test.Test.main()");
     }
     
 }
